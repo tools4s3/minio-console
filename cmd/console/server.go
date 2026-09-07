@@ -25,9 +25,9 @@ import (
 	"github.com/go-openapi/loads"
 	"github.com/jessevdk/go-flags"
 	"github.com/minio/cli"
-	"github.com/minio/console/api"
-	"github.com/minio/console/api/operations"
-	"github.com/minio/console/pkg/certs"
+	"github.com/tools4s3/console/api"
+	"github.com/tools4s3/console/api/operations"
+	"github.com/tools4s3/console/pkg/certs"
 )
 
 // starts the server

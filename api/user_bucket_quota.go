@@ -20,10 +20,10 @@ import (
 	"context"
 
 	"github.com/go-openapi/runtime/middleware"
-	"github.com/minio/console/api/operations"
-	bucektApi "github.com/minio/console/api/operations/bucket"
+	"github.com/tools4s3/console/api/operations"
+	bucektApi "github.com/tools4s3/console/api/operations/bucket"
 
-	"github.com/minio/console/models"
+	"github.com/tools4s3/console/models"
 )
 
 func registerBucketQuotaHandlers(api *operations.ConsoleAPI) {

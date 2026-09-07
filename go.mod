@@ -1,4 +1,4 @@
-module github.com/minio/console
+module github.com/tools4s3/console
 
 go 1.24.0
 

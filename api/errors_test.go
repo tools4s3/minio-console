@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/minio/console/models"
+	"github.com/tools4s3/console/models"
 	"github.com/stretchr/testify/assert"
 )
 

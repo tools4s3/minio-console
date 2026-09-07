@@ -26,9 +26,9 @@ import (
 	"strings"
 
 	errorsApi "github.com/go-openapi/errors"
-	"github.com/minio/console/models"
-	"github.com/minio/console/pkg/auth"
-	"github.com/minio/console/pkg/utils"
+	"github.com/tools4s3/console/models"
+	"github.com/tools4s3/console/pkg/auth"
+	"github.com/tools4s3/console/pkg/utils"
 	"github.com/minio/websocket"
 )
 
